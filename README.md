@@ -1,5 +1,7 @@
 # KimiFoundryDemo
 
+Blog Post: [Kimi K2.7 Code is Now Available in Microsoft Foundry](https://taswar.zeytinsoft.com/kimi-k2-7-code-is-now-available-in-microsoft-foundry/)
+
 A minimal .NET console app that calls a chat model (default: `Kimi-K2.7-Code`) hosted on **Azure AI Foundry** using the `Azure.AI.Inference` SDK with Entra ID (passwordless) authentication.
 
 ## Prerequisites
