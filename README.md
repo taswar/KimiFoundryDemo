@@ -7,10 +7,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
-- 📖 Full walkthrough: [Kimi K2.7 Code is Now Available in Microsoft Foundry](https://taswar.zeytinsoft.com/kimi-k2-7-code-is-now-available-in-microsoft-foundry/)
+- 📖 Full walkthrough: [Kimi K2.7 Code is Now Available in Microsoft Foundry](https://taswar.zeytinsoft.com/kimi-k2-7-code-is-now-available-in-microsoft-foundry/?utm_source=github&utm_medium=readme&utm_campaign=KimiFoundryDemo&utm_content=walkthrough)
 - ⭐ If this sample helps you, star the repo so other .NET developers can find it.
 - 🔁 Related: [Grok 4.7 C# Demo](https://github.com/taswar/Grok-4.7-Demo-CSharp), another coding model on Foundry with a refactoring review
-- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/)
+- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/?utm_source=github&utm_medium=readme&utm_campaign=KimiFoundryDemo&utm_content=ai-models-hub)
 - For my free ebook on prompt engineering, see [Prompt Engineering for .NET Developers](https://github.com/taswar/PromptEngineeringForDotNetDevelopers)
 
 A minimal .NET 10 console app that asks **Kimi K2.7 Code**, Moonshot AI's coding model hosted on **Microsoft Foundry**, to review a buggy C# method. It uses the `Azure.AI.Inference` SDK with Entra ID (passwordless) authentication.
